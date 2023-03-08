@@ -13,4 +13,6 @@ For the installation of this project, it was created using npm features such as 
 
 This assignment is used in your computer's terminal, and most of the work is done there. Run "node index.js" and asnwer the prompts as following. Then, you will be prompted with a logo based on your choices. 
 
+## Assignment doesn't include video because the code wasn't running in the terminal properly. Will be resubmitting with video. 
+
 
